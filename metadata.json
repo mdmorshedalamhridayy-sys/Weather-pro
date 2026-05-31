@@ -1,0 +1,6 @@
+{
+  "name": "Weather Tracker",
+  "description": "Live weather updates for Bangladesh districts and global locations, live Bay of Bengal satellite tracking, storm alerts, offline caching, and location tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
